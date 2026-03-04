@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Eliabe 👋
 
-<!--
-**EliabeCorrea01/EliabeCorrea01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia da Computação (UNIVESP)  
+💻 Técnico em Informática  
+🧠 Foco: Infraestrutura, Redes, Banco de Dados e Suporte/Manutenção
 
-Here are some ideas to get you started:
+## 📌 Sobre mim
+Atualmente estou construindo meu portfólio com projetos acadêmicos e práticos.
+Meu objetivo é conquistar minha primeira oportunidade na área de TI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Áreas de interesse
+- Suporte e manutenção de computadores
+- Redes de computadores (conceitos, topologias, troubleshooting)
+- Banco de dados (modelagem e SQL)
+- Infraestrutura / Sistemas Operacionais
+
+## 📫 Contato
+- LinkedIn: (coloque aqui quando tiver)
