@@ -2,6 +2,7 @@
 
 🎓 Estudante de Engenharia da Computação (UNIVESP)  
 💻 Técnico em Informática  (Senac)
+
 🧠 Foco: Infraestrutura, Redes, Banco de Dados e Suporte/Manutenção
 
 ## 📌 Sobre mim
