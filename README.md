@@ -16,4 +16,4 @@ Meu objetivo é conquistar minha primeira oportunidade na área de TI.
 - Infraestrutura / Sistemas Operacionais
 
 ## 📫 Contato
-- LinkedIn: (coloque aqui quando tiver)
+- LinkedIn: https://www.linkedin.com/in/eliabe-correa-537b58264
