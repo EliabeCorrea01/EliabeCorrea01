@@ -41,9 +41,8 @@ Busco minha primeira oportunidade profissional para aplicar soluções de integr
 
 ## 🎯 Objetivo Profissional
 Disponível para **Estágio** ou posições **Junior** em:
-1. Suporte Técnico / Helpdesk L2
-2. Analista de Dados / DBA Junior
-3. Desenvolvedor Backend (Node.js/SQL)
+1. Suporte Técnico
+2. Desenvolvedor Backend/DBA
 
 ---
 
