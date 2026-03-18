@@ -9,7 +9,7 @@
 ## 👨‍💻 Sobre Mim
 Estudante de Engenharia da Computação no 4º semestre, com sólida base técnica em hardware e redes. Atualmente, foco minha energia no **desenvolvimento Backend e Arquitetura de Banco de Dados**. 
 
-Busco minha primeira oportunidade profissional para aplicar soluções de integridade de dados, automação de processos via SQL e construção de APIs robustas.
+Busco minha primeira oportunidade profissional para aplicar soluções de suporte técnico e integridade de dados, automação de processos via SQL e construção de APIs robustas.
 
 ---
 
