@@ -77,8 +77,8 @@ Desenvolvimento backend (nível inicial)
 
 Com foco em aprendizado contínuo, crescimento profissional e contribuição real dentro da empresa.
 
-📫 Contato
+## 📫 Contato
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eliabe%20Correa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eliabe-correa-537b58264)
 [![GitHub](https://img.shields.io/badge/GitHub-EliabeCorrea01-black?style=flat&logo=github)](https://github.com/EliabeCorrea01)
-
 
