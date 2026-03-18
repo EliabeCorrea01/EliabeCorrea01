@@ -1,4 +1,4 @@
-# Eliabe Gabriel de Oliveira Correa
+# 👨‍💻 Eliabe Gabriel
 
 🎓 Estudante de Engenharia da Computação — UNIVESP (4º semestre)  
 💻 Técnico em Informática — SENAC  
