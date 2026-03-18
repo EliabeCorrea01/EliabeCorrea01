@@ -40,13 +40,6 @@ Busco minha primeira oportunidade profissional para aplicar soluções de integr
 
 ---
 
-## 📈 Roadmap de Estudos 2024/2025
-* [ ] **TypeScript:** Adicionando tipagem e segurança aos projetos Node.js.
-* [ ] **Docker:** Conteinerização de bancos de dados e aplicações.
-* [ ] **ORM (Prisma/Sequelize):** Evoluindo a integração entre código e banco.
-
----
-
 ## 🎯 Objetivo Profissional
 Disponível para **Estágio** ou posições **Junior** em:
 1. Suporte Técnico / Helpdesk L2
