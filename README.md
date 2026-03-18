@@ -1,18 +1,11 @@
-# 👨‍💻 Eliabe Gabriel
+# Eliabe Gabriel de Oliveira Correa
 
-🚀 Foco: Banco de Dados • Backend • Suporte Técnico
-
-🎓 Engenharia da Computação — UNIVESP (4º semestre)  
+🎓 Estudante de Engenharia da Computação — UNIVESP (4º semestre)  
 💻 Técnico em Informática — SENAC  
-📍 São Paulo — Brasil  
+📍 Itapetininga, SP  
 
----
-
-## 🧠 Sobre mim
-
-Sou estudante de Engenharia da Computação com formação técnica em Informática pelo SENAC, construindo minha base na área de Tecnologia da Informação com foco em **banco de dados, backend e suporte técnico**.
-
-Tenho interesse em aplicar meus conhecimentos em ambientes reais, contribuindo com soluções práticas, organização de dados e melhoria de processos, enquanto evoluo tecnicamente na área.
+Estou construindo minha carreira em TI com foco em **banco de dados, backend e suporte técnico**.  
+Busco minha primeira oportunidade profissional para aplicar meus conhecimentos na prática e contribuir com soluções reais.
 
 ---
 
@@ -22,63 +15,52 @@ Tenho interesse em aplicar meus conhecimentos em ambientes reais, contribuindo c
 |------|-------------|
 | Banco de Dados | PostgreSQL, SQL, PL/pgSQL, Modelagem Relacional |
 | Versionamento | Git, GitHub |
-| Backend (em evolução) | Lógica de Programação, Node.js |
-| Sistemas Web | HTTP, APIs REST, conceitos de desenvolvimento web |
-| Suporte Técnico | Hardware, Redes, Sistemas Operacionais |
-| Ferramentas | Excel (planilhas e análise de dados), Word, PowerPoint, Microsoft Project, Pacote Office |
+| Backend (em formação) | Lógica de Programação, Node.js (estudando) |
+| Sistemas Web | Conceitos de desenvolvimento web, HTTP, APIs REST |
+| Suporte | Manutenção de hardware/software, Redes, Sistemas Operacionais |
+| Ferramentas | Excel, LibreOffice |
 
 ---
 
 ## 📌 Projeto em Destaque
 
-### 🔄 Sistema de Logística Reversa  
-👉 https://github.com/EliabeCorrea01/sistema-logistica-reversa
+### 🔄 [Sistema de Logística Reversa](https://github.com/EliabeCorrea01/sistema-logistica-reversa)
+> Projeto acadêmico com características de sistema real, desenvolvido em PostgreSQL/PL/pgSQL.
 
-Projeto acadêmico com características de sistema real, desenvolvido em **PostgreSQL/PLpgSQL**, com foco em controle de processos e integridade de dados.
+**O que foi implementado:**
+- Máquina de estados para controle de workflow de devoluções
+- Auditoria automática com registro de valores antes/depois das alterações
+- Controle de SLA com classificação automática (no prazo / alerta / crítico)
+- Segurança com controle de acesso por papéis e validação de dados (CNPJ, e-mail)
+- Modelagem relacional completa, separada por camadas (schema, seed, reports)
 
-**Principais implementações:**
+> 💡 Projeto desenvolvido em equipe, com foco em integridade de dados e regras de negócio implementadas diretamente no banco.
 
-- Workflow de devoluções com máquina de estados  
-- Auditoria automática com registro de alterações (before/after)  
-- Controle de SLA com classificação (no prazo / alerta / crítico)  
-- Validação de dados e controle de acesso  
-- Estrutura organizada em camadas (schema, seed, reports)  
+---
 
-📊 Exemplo de consulta:
-
-```sql
-SELECT * 
-FROM relatorio_sla 
-WHERE status_sla = 'CRITICO';
-
-💡 Projeto desenvolvido em equipe, simulando regras de negócio aplicadas diretamente no banco de dados.
-
-📈 Em evolução
+## 📈 Em Evolução
 
 Atualmente estou me aprofundando em:
 
-Desenvolvimento backend com Node.js
+- **Node.js** — desenvolvimento backend e criação de APIs REST
+- **Integração banco de dados + aplicação** — conectando o que já sei de SQL com backend
+- **Projetos full stack** — evolução natural do meu foco atual
 
-Criação de APIs REST
+---
 
-Integração entre banco de dados e aplicações
+## 🎯 O que estou buscando
 
-Estruturação de sistemas completos (full stack)
+Primeira oportunidade na área de TI nas frentes de:
 
-🎯 Objetivo
+- **Suporte técnico / helpdesk** — para aplicar meu conhecimento prático de hardware, redes e sistemas
+- **Banco de dados** — análise, modelagem ou administração de dados
+- **Desenvolvimento backend** — em evolução, com base sólida em lógica e SQL
 
-Busco minha primeira oportunidade na área de TI para atuar em:
+Estou disponível para estágios, CLT e freelas. Tenho comprometimento, capacidade de aprendizado rápido e entrego qualidade mesmo em projetos acadêmicos.
 
-Suporte técnico / Helpdesk
-
-Banco de dados
-
-Desenvolvimento backend (nível inicial)
-
-Com foco em aprendizado contínuo, crescimento profissional e contribuição real dentro da empresa.
+---
 
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eliabe%20Correa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eliabe-correa-537b58264)
 [![GitHub](https://img.shields.io/badge/GitHub-EliabeCorrea01-black?style=flat&logo=github)](https://github.com/EliabeCorrea01)
-
