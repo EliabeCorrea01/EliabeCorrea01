@@ -1,6 +1,6 @@
 # 👨‍💻 Eliabe Gabriel
 
-🚀 Foco: Banco de Dados • Backend • Sistemas
+🚀 Foco: Banco de Dados • Backend • Sistemas • Suporte Técnico
 
 🎓 Estudante de Engenharia da Computação — UNIVESP (4º semestre)  
 💻 Técnico em Informática — SENAC  
