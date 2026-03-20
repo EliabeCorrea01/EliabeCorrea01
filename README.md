@@ -7,7 +7,7 @@ Tenho foco em **Backend, Banco de Dados e Suporte de TI**, com interesse em cons
 
 ---
 
-## 🚀 Principais Projetos
+## 🚀 Principais Projetos em Andamento
 
 ### 🔧 Sistema de Logística Reversa
 Sistema completo para controle de devoluções com rastreabilidade, regras de negócio e controle de status.
