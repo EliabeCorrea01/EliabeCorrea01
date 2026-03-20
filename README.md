@@ -1,4 +1,4 @@
-# 👋 Olá muito prazer em te conhecer, sou Eliabe Gabriel
+# 👋 Eliabe Gabriel
 
 🎓 Engenharia da Computação — UNIVESP  
 💻 Técnico em Informática — SENAC  
