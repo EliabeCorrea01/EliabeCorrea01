@@ -12,44 +12,77 @@ Tenho interesse em ambientes corporativos onde a tecnologia é utilizada para or
 ## 🚀 Projeto em Destaque
 🔧 Sistema de Logística Reversa
 
-Sistema para controle de devoluções com rastreabilidade completa, validações e fluxo estruturado de estados.
+Sistema completo para **gestão de devoluções**, com foco em **rastreabilidade, controle de estados e validações de negócio no banco de dados**.
 
 🔗 Repositório:
 https://github.com/EliabeCorrea01/sistema-logistica-reversa
 
-🚧 Status do Projeto
+---
 
-Projeto em desenvolvimento como parte da graduação (UNIVESP), realizado em grupo.
+## ⚙️ Funcionalidades Implementadas
 
-Já implementado:
+Cadastro estruturado de devoluções
 
-Modelagem relacional no PostgreSQL
+Controle de status com fluxo definido:
+REGISTRADA → EM_ANALISE → FINALIZADA
 
-Regras de negócio com PL/pgSQL
+Validações automáticas via banco de dados
 
-Controle de fluxo (REGISTRADA → EM_ANALISE → FINALIZADA)
+Auditoria de operações (rastreabilidade)
 
-Estrutura de auditoria de dados
+Estrutura relacional normalizada
+
+---
+
+## 🧠 Arquitetura e Decisões Técnicas
+
+Regras críticas implementadas no banco (PL/pgSQL)
+
+Uso de triggers e procedures para garantir consistência
+
+Separação clara entre:
+
+Camada de dados
+
+Camada de aplicação (em evolução)
+
+Modelagem preparada para escala e manutenção
+
+---
+
+## 📌 Status do Projeto
+
+📍 Projeto acadêmico em desenvolvimento (UNIVESP — trabalho em grupo)
+
+Concluído:
+
+Modelagem relacional (PostgreSQL)
+
+Implementação de regras de negócio
+
+Estrutura de controle de fluxo
+
+Auditoria de dados
 
 Em desenvolvimento:
 
-Integração completa com API (Node.js)
+API REST (Node.js + Express)
 
-Endpoints REST
+Integração backend ↔ banco
 
-Camada de visualização
+Interface de visualização
 
 Deploy da aplicação
 
-👨‍💻 Minha contribuição
+---
 
-Atuação direta nas áreas de:
+## 👨‍💻 Minha Atuação no Projeto
 
-Modelagem de dados
+Modelagem de banco de dados
 
-Implementação de regras de negócio no banco
+Implementação de regras de negócio
 
-Estruturação do fluxo de devoluções
+Definição do fluxo de estados
 
 Garantia de integridade e consistência dos dados
 
