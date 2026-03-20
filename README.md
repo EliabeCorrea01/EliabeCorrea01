@@ -37,15 +37,10 @@ Estrutura relacional normalizada
 ## 🧠 Arquitetura e Decisões Técnicas
 
 Regras críticas implementadas no banco (PL/pgSQL)
-
 Uso de triggers e procedures para garantir consistência
-
 Separação clara entre:
-
 Camada de dados
-
 Camada de aplicação (em evolução)
-
 Modelagem preparada para escala e manutenção
 
 ---
@@ -54,24 +49,18 @@ Modelagem preparada para escala e manutenção
 
 📍 Projeto acadêmico em desenvolvimento (UNIVESP — trabalho em grupo)
 
-Concluído:
+**Concluído:**
 
 Modelagem relacional (PostgreSQL)
-
 Implementação de regras de negócio
-
 Estrutura de controle de fluxo
-
 Auditoria de dados
 
-Em desenvolvimento:
+**Em desenvolvimento:**
 
 API REST (Node.js + Express)
-
 Integração backend ↔ banco
-
 Interface de visualização
-
 Deploy da aplicação
 
 ---
@@ -79,47 +68,23 @@ Deploy da aplicação
 ## 👨‍💻 Minha Atuação no Projeto
 
 Modelagem de banco de dados
-
 Implementação de regras de negócio
-
 Definição do fluxo de estados
-
 Garantia de integridade e consistência dos dados
-
-🧠 Arquitetura e Conceitos Aplicados
-
-Modelagem relacional normalizada
-
-Regras de negócio no banco (procedures, triggers)
-
-Controle de estados e transições
-
-Separação entre camada de dados e aplicação
-
-Estrutura preparada para evolução e manutenção
 
 ---
 
 ## 🛠️ Stack Técnica
 
 Backend
-
 Node.js
-
 Express
-
 Banco de Dados
-
 PostgreSQL
-
 SQL (DDL, DML, Procedures, Triggers)
-
 Ferramentas
-
 Git
-
 GitHub
-
 ---
 
 ## 🎯 Objetivo
