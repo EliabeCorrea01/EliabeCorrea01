@@ -68,6 +68,12 @@ Sistema completo para **gestão de devoluções**, com foco em **rastreabilidade
 
 ---
 
+## 💡 Problema Resolvido
+
+Evita perda de controle em processos de devolução, garantindo rastreabilidade completa, padronização do fluxo e redução de inconsistências operacionais.
+
+---
+
 ## 🛠️ Stack Técnica
 
 **Backend:**  
