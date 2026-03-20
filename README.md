@@ -3,9 +3,9 @@
 🎓 Estudante de Engenharia da Computação (UNIVESP)  
 💻 Técnico em Informática (SENAC)  
 
-Focado em Backend, Banco de Dados e Suporte de TI, com aplicação prática em desenvolvimento de sistemas com regras de negócio, controle de fluxo e integridade de dados.
+Atuo com foco em **Backend, Banco de Dados e Sistemas Orientados a Regras de Negócio**, desenvolvendo soluções estruturadas com **controle de fluxo, integridade de dados e rastreabilidade**.
 
-Atualmente desenvolvendo projetos com abordagem voltada para cenários reais e ambiente corporativo.
+Tenho interesse em ambientes corporativos onde a tecnologia é utilizada para organizar processos, reduzir erros operacionais e garantir consistência das informações.
 
 ---
 
